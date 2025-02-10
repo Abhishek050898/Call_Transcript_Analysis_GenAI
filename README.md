@@ -59,8 +59,8 @@ To use this project, clone the repository and install the necessary dependencies
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/Transcript_Analysis.git
-cd Transcript_Analysis
+git clone https://github.com/yourusername/Call_Transcript_Analysis_GenAI.git
+cd Call_Transcript_Analysis_GenAI
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
